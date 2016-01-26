@@ -1,0 +1,87 @@
+.toc_title{
+    text-indent: 1em;
+    line-height: 1.2;
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 0;
+}
+.toc_subtitle .toc_title{
+    margin-top: 2em;
+    font-size: 1em;
+}
+.mp_body {
+    -epub-writing-mode: vertical-rl;
+    -webkit-writing-mode: vertical-rl;
+    color: #000;
+    display: block;
+    padding-left: 0;
+    padding-right: 0;
+    writing-mode: vertical-rl;
+    margin: 18pt 5pt 6pt
+    }
+.mp_comment {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 2em;
+    padding: 0;
+    margin: 0
+    }
+.mp_comment_inline {
+    font-size: 0.75em;
+    padding: 0;
+    margin: 0
+    }
+.mp_end {
+    display: block;
+    padding: 0;
+    margin: 0
+    }
+.mp_main {
+    display: block;
+    font-size: 1em;
+    text-align: left;
+    text-indent: 2em;
+    padding: 0;
+    margin-left: 0.8em;
+    line-height: 1.3;
+    }
+.mp_poetry_line {
+    display: block;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.mp_separator {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    text-align: left;
+    padding: 0;
+    margin: 0
+    }
+.mp_subtitle {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.3;
+    text-align: left;
+    text-indent: 2em;
+    padding: 0;
+    margin: 0
+    }
+.mp_title {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+
