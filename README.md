@@ -12,6 +12,6 @@
 * config是opencc配置文件，用来转换繁简中文
 
 ##推荐工具
-* [epub打包-win]https://code.google.com/archive/p/epub-applescripts/downloads
-* [epub打包-mac]http://sourceforge.net/projects/epubpack/
+* [epub打包-mac]https://code.google.com/archive/p/epub-applescripts/downloads
+* [epub打包-win]http://sourceforge.net/projects/epubpack/
 * [繁简转换]https://github.com/BYVoid/OpenCC
