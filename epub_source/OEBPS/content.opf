@@ -63,7 +63,7 @@
     <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
   </manifest>
-  <spine page-progression-direction="rtl" toc="ncx">
+  <spine toc="ncx">
     <itemref idref="titlepage"/>
     <itemref idref="contents"/>
     <itemref idref="id244"/>

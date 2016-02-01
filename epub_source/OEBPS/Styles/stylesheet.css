@@ -10,13 +10,10 @@
     font-size: 1em;
 }
 .mp_body {
-    -epub-writing-mode: vertical-rl;
-    -webkit-writing-mode: vertical-rl;
     color: #000;
     display: block;
     padding-left: 0;
     padding-right: 0;
-    writing-mode: vertical-rl;
     margin: 18pt 5pt 6pt
     }
 .mp_comment {
