@@ -19,7 +19,7 @@
     </navPoint>
     <navPoint id="navPoint-2" playOrder="2">
       <navLabel>
-        <text>梅花拳秘譜（含燕子傑評注）</text>
+        <text>序</text>
       </navLabel>
       <content src="Text/index_split_000.html"/>
     </navPoint>
