@@ -16,7 +16,8 @@
 * [epub打包-win]http://sourceforge.net/projects/epubpack/
 * [繁简转换]https://github.com/BYVoid/OpenCC
 
-##繁简转换命令
-```
-opencc -i ./epub_source/OEBPS/Text/contents.xhtml -o ./epub_source/OEBPS/Text/contents.xhtml -c ./t2s.json
-```
+    繁简转换命令
+    ```
+    opencc -i ./epub_source/OEBPS/Text/contents.xhtml -o ./epub_source/OEBPS/Text/contents.xhtml -c ./t2s.json
+    ```
+  
